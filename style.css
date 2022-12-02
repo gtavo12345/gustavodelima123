@@ -1,9 +1,13 @@
 h1{font-size: 70px; color: BLUE; text-align: center; font-style: italic;}
 
 img{
-  width: 500px;
-  margin-left: 0%
+  width: 600px;
+  margin-left: 30%
 }
+
 h3{
   font-size: 80px
+}
+body{
+  background-color:#aeced2
 }
