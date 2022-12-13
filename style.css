@@ -1,13 +1,42 @@
-h1{font-size: 70px; color: BLUE; text-align: center; font-style: italic;}
+body{
+  background-color: #04006B
+}
+header{
+  background-color: #2F0142
+}
+
+.titulo{font-size: 100px; color: #C7C7C7; text-align: center;margin-top: 0%}
+
+h1{
+  font-family: inherit; text-align: center; color:white; border: 10px solid white;
+}
+
+p{
+  font-family: monospace; font-size: 30px; color: white; text-align: center; border: 10px solid #C7B704;
+}
+
+nav li{
+  display:inline-block;
+  margin: 0 0 0 170px;
+  text-transform: uppercase;
+  border: 3px solid #E0ffff;
+}
+
+nav a:hover{
+  color: #E0ffff;
+  text-decoration: underline;
+}
+
+.logo{
+width: 15%;
+margin-left: 0%;
+}
 
 img{
-  width: 600px;
-  margin-left: 30%
+  width: 50%;
+  margin-left: 25%;
 }
 
-h3{
-  font-size: 80px
-}
-body{
-  background-color:#aeced2
-}
+.carreira{font-family: cursive; background-color: #0076A8; color: black ; font-size: 30px; text-align: center;}
+.familia{font-family: cursive; background-color: #0076A8; color: black ; font-size: 30px; text-align: center;}
+.recordes{font-family: cursive; background-color: #0076A8; color: black ; font-size: 30px; text-align: center;}
